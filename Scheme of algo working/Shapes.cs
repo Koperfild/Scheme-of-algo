@@ -270,6 +270,8 @@ namespace SchemeOfAlgorithm
             }
         }
     }
+
+    //Test drawing of shapes
     public class TestSomeShit
     {
         [CommandMethod("test1")]

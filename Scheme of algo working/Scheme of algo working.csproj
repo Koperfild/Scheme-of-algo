@@ -102,7 +102,7 @@
     <Compile Include="SchemeDraw.cs" />
     <None Include="ClassDiagram1.cd" />
     <None Include="myCommands.cs" />
-    <Compile Include="Class1.cs" />
+    <Compile Include="Shapes.cs" />
     <Compile Include="myCommands.Designer.cs">
       <DependentUpon>myCommands.cs</DependentUpon>
     </Compile>
